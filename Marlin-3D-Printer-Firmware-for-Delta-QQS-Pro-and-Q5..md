@@ -1,4 +1,4 @@
-# 1. Marlin 3D Printer Firmware for Delta QQS-Pro and Q5.
+# 1. Firmwares for Delta QQS-Pro and Q5.
 
   [**Group FaceBook**](https://www.facebook.com/groups/120961628750040)
 
