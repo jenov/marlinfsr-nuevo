@@ -7,3 +7,5 @@
   ![QQS](../../docs/images/FLSunMarlin.png)
 
   __Not for production use. Use with caution!__
+
+# [Firmwares and docs](https://github.com/Foxies-CSTL/Marlin_2.0.x/tree/FLSUN_QQS-PRO-MULTI/Marlin/Firmwares#1-Marlin-3D-Printer-Firmware-for-Delta-QQS-Pro-and-Q5)
