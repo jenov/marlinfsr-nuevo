@@ -18,7 +18,7 @@
   - [3.3. TIPS for Raspberry,](3.SPECIAL-MODS#33-Raspberry)
   - [3.4. Led_Strip, Fans, Convertors, thermal probe,...](3.SPECIAL-MODS#34-Various-assembly)
   - [3.5. Mecanical & Electronic](3.SPECIAL-MODS#35-Mechanical--electronic-precautions)
-- [4. The slicer](4.SLICER-PART)
+- [4. The slicer](4.SLICERS-PART)
 - [5. Wifi Part](5.Firmware-Wifi)
 - [6. Version History.](6.Version-History)
 ***
