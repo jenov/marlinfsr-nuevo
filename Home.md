@@ -37,4 +37,5 @@
 - [5. Wifi Part](5.Firmware-Wifi)
 - [6. Version History.](6.Version-History)
 ***
-
+[Go_To_Index](_Sidebard)
+[Go_To_Home](Home)
