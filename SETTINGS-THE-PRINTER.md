@@ -1,7 +1,7 @@
   ### HELP - PROCEDURE - TIPS 
   After the flash, you must **RESET** your printer!!
   
-  ![RAZ-EEPROM](../../docs/images/RAZ-EEProm.png)
+  ![RAZ-EEPROM](./images/RAZ-EEProm.png)
   
   By menu:
   - "Configuration/AdvancedSettings/InitializeEEPROM"
@@ -21,9 +21,9 @@
    # **NEW SINCE APRIL 2021 :**
    NOW YOU HAVE A **DEDICATED MENU** TO DO THE DIFFERENT STEPS OF THE PREPARATION OF YOUR PRINTER! THEY ARE POSITIONED IN THE ORDER OF THE OPERATIONS TO BE CARRIED OUT.
 
-   ![SpecialMenu](../../docs/images/SpecialMenu.png)
+   ![SpecialMenu](./images/SpecialMenu.png)
 
-   ![SpecialMenu2](../../docs/images/SpecialMenu2.png)
+   ![SpecialMenu2](./images/SpecialMenu2.png)
   
 ## 2.1. Delta Calibration
 ###  **Perform a Delta Calibration:**
@@ -51,7 +51,7 @@
   - New procedure with the last firmware (Since April 2021)!!
     Use the menu **"Special Delta"** to launch the wizard.
 
-   ![SpecialWizard](../../docs/images/SpecialWizard.png)
+   ![SpecialWizard](./images/SpecialWizard.png)
 
        "Motion/MoveAxis" deactived the endstops.
        "Motion/MovesAxis/Move ZThen lower the nozzle slowly to adjust to a sheet of paper.
@@ -72,7 +72,7 @@
 
     Use the menu **"Special Delta"** to run your prefer leveling (PLA, PETG, ABS) with auto-save.
 
-  ![SpecialMenu](../../docs/images/SpecialMenu3.png)
+  ![SpecialMenu](./images/SpecialMenu3.png)
   
   By terminal with the commands:
   - M190 S60 (temp bed at 60° or other)
@@ -95,7 +95,7 @@
   **Note:**
      The leveling of the mesh bed is based on the SQUARE and we have a CIRCLE so we will always be missing inaccessible points. That's why we fill these points with values identical to the closest values of these points.
   
-  ![MeshOnDelta](../../docs/images/MeshOnDelta.png)
+  ![MeshOnDelta](./images/MeshOnDelta.png)
 
 ###  **Perform a bed calibration ([**ABL**](https://marlinfw.org/docs/features/auto_bed_leveling.html))**
   
@@ -123,7 +123,7 @@
   - ie being able to print on a well-leveled plate. Then by printing this model: [Advanced Delta Printer Calibration](https://www.thingiverse.com/thing:745523)
   - you adjust the DELTA_DIAGONAL_ROD (L) and the lengths DIAGONAL_ROD_TRIM_TOWER (ABC) between the laps by calculation (xls or [odt file](https://www.thingiverse.com/thing:1274733)) and you insert them all the parameters to be modified with this command [M665](https://marlinfw.org/docs/gcode/M665.html) Lxx Axx Bxx Cxx.
 
-  ![Spreadsheet](../../docs/images/Spreadsheet_Calc.png)
+  ![Spreadsheet](./images/Spreadsheet_Calc.png)
 
   - If you print the model again you should find a very small difference (0.1/0.09) on XYZ.
   - I prefer this model because it fits well with the caliper:[Objet_QuickCalDelta](https://www.thingiverse.com/thing:2256557)

@@ -44,44 +44,44 @@
     With removable stepper drivers.
     2&3_A4988(Green/Red)=>(**Sxxx-Robin_mini.bin**)
     
-    ![Second Version-A4988](./images/HiSpeedv1-A4988.jpg) ![Seconds Version-A4988](../../docs/images/HiSpeedv1-A4988red.jpg)
+    ![Second Version-A4988](./images/HiSpeedv1-A4988.jpg) ![Seconds Version-A4988](./images/HiSpeedv1-A4988red.jpg)
     
     4xTMC2208 MKS =>(**8xxx-Robin_mini.bin**)
     
-    ![Last Version-TMC2208](../../docs/images/HiSpeedv1-TMC.jpg)
+    ![Last Version-TMC2208](./images/HiSpeedv1-TMC.jpg)
   
   * Others Micro Steppinp Drivers
   
-    ![Drivers](../../docs/images/MicroSteppinpDrivers.jpg)
+    ![Drivers](./images/MicroSteppinpDrivers.jpg)
 
   * Other MotherBoards for Q5 and QQS:
 
     [NANOv1.2](./Q5)=>(**Q5_Header_robin_nano.bin**)
 
-    ![Board_Nanov1.2](../../docs/images/Fam_Nano.png)
+    ![Board_Nanov1.2](./docs/images/Fam_Nano.png)
     
     [SKR](./SKR)=>(**Header-firmware.bin**)
     
-    ![Board_SKRs](../../docs/images/Fam_SKR.png) 
-    ![Cnx_SKRs](../../docs/images/SKR_EndStop.png)
+    ![Board_SKRs](./images/Fam_SKR.png) 
+    ![Cnx_SKRs](./images/SKR_EndStop.png)
 
   Typically the probe for the QQS-Pro printers.
   
   * Z Probe Offset (-16.2mm)        * TFT screen color Marlin
 
-    ![Version Probe](../../docs/images/VersionProbe.jpg)        ![TFT_COLOR_UI](../../docs/images/UI_Color.png)
+    ![Version Probe](./images/VersionProbe.jpg)        ![TFT_COLOR_UI](./images/UI_Color.png)
   
 
 ###  Optionals:
 
   * Modules Wifi
   
-    ![ESP12](../../docs/images/esp12.jpg)
-    ![ESP8266](../../docs/images/WemosD1.jpg)
+    ![ESP12](./images/esp12.jpg)
+    ![ESP8266](./images/WemosD1.jpg)
 
   * Led Strip with additional converter 24v/12-5v
   
-    ![Neopixels](../../docs/images/LedsStip.jpg)
+    ![Neopixels](./images/LedsStip.jpg)
 
   No validate:
   -TMC5121

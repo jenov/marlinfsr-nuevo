@@ -13,9 +13,9 @@
 
   ### **You will find some Slicer profiles in the "Slicers" [directory](../Slicers).** 
 
-![Final_Print](../../docs/images/Final.png)
-![Presentation](../../docs/images/Final2.jpg)
+![Final_Print](./images/Final.png)
+![Presentation](./images/Final2.jpg)
 
-![Tests](../../docs/images/Tests.png)
-![MotorMounts](../../docs/images/BottomPulley.png)
+![Tests](./images/Tests.png)
+![MotorMounts](./images/BottomPulley.png)
 ***

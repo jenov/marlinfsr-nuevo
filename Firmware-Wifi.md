@@ -1,6 +1,6 @@
  # For the Wifi Module ESP8266 or Mks Wifi:
 
-![UI ESP3D with Module Wifi MKS](../../../docs/images/QQSPro_ESP3D.png)![UI ESP3D2](../../../docs/images/ESP_UI2.png)
+![UI ESP3D with Module Wifi MKS](./images/QQSPro_ESP3D.png)![UI ESP3D2](./images/ESP_UI2.png)
 
 Put the firmware (MksWifi.bin) on the scard with the firmware FLSUN (Robin_mini.bin)
  - 1) Flash original firmware + original mkswifi 
@@ -20,7 +20,7 @@ to run the update of Mks_Wifi or You also can do by web page of the AP (192.168.
 5. You may want to change the Baud rate to accord with your printer.
 6. You can change to DHCP, or at the very least setup a Static IP you are familiar with.
 
-![UI ESP3D](../../../docs/images/ESP-UI.png)
+![UI ESP3D](./images/ESP-UI.png)
 
 Once reconnected to the module's web page, you can update it through the interface with:
 - New files "index.html.gz", "preferences.json" or "macros"
