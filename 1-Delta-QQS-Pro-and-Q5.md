@@ -36,7 +36,7 @@
 ## 1.3. **Hardware for the FLSunQ printers**
   
   * MotherBoards QQS(P): 
-    [HiSpeedv1_&_RobinMini](./HISPEED/)
+    [HiSpeedv1_&_RobinMini](https://github.com/Foxies-CSTL/Marlin_2.0.x/tree/Firmwares/HISPEED)
     
     With integrated stepper drivers(A4988)=>(**Sxxx-Robin_mini.bin**)
 
