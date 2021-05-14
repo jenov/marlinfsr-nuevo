@@ -1,4 +1,6 @@
 ***
+[Home](Home)
+
 - [1.Title](#1-Marlin-3D-Printer-Firmware-for-Delta-QQS-Pro-and-Q5)
   - [1.1. Last News,](#11-Last-news-Marlin-2-Bugfix-Branch)
   - [1.2. Capabilities,](#12-Validate-and-Actived-parts)
@@ -19,5 +21,5 @@
   - [3.5. Mecanical & Electronic](#35-Mechanical--electronic-precautions)
 - [4. The slicer](#4-SLICER-PART)
 - [5. Wifi Part](#5-Firmware-Wifi)
-- [6. Version History.](#6-Version-History)
+- [6. Version History.](6-Version-History)
 ***
