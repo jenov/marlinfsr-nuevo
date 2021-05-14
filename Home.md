@@ -11,24 +11,24 @@
 
   [**My Last Release**](https://github.com/Foxies-CSTL/Marlin_2.0.x/releases)
 
-- [1.Title](Marlin-3D-Printer-Firmware-for-Delta-QQS-Pro-and-Q5)
-  - [1.1. Last News,]
-  - [1.2. Capabilities,]
-  - [1.3. Hardware,]
+- [1.Title](Delta-QQS-Pro-and-Q5)
+  - [1.1. Last News,](Delta-QQS-Pro-and-Q5#11-Last-news-Marlin-2-Bugfix-Branch)
+  - [1.2. Capabilities,](Delta-QQS-Pro-and-Q5#12-Validate-and-Actived-parts)
+  - [1.3. Hardware,](Delta-QQS-Pro-and-Q5#13-Hardware-for-the-FLSunQ-printers)
   - [1.4. Description of firmware headers.](CAPTION-Firmwares)
 - [2. Delta preparation](SETTINGS-THE-PRINTER)
-  - [2.1. Delta Calibration,]
-  - [2.2. Set the OffSet (Z),]
-  - [2.3. Levelling (UBL),]
-  - [2.4. Refine your printed object dimensions,]
-  - [2.5. Perform a PID,]
-  - [2.6. Adjust your Extruder.]
+  - [2.1. Delta Calibration,](SETTINGS-THE-PRINTER#21-delta-calibration)
+  - [2.2. Set the OffSet (Z),](SETTINGS-THE-PRINTER#22-Z_OffSet)
+  - [2.3. Levelling (UBL),](SETTINGS-THE-PRINTER#23-Bed-Levelling)
+  - [2.4. Refine your printed object dimensions,](SETTINGS-THE-PRINTER#24-DIMENSIONS)
+  - [2.5. Perform a PID,](SETTINGS-THE-PRINTER#25-PID)
+  - [2.6. Adjust your Extruder.](SETTINGS-THE-PRINTER#26-EXTRUDER)
 - [3. Special mods for TMC, Raspberry, LedStrip, etc](SPECIAL-MODS)
-  - [3.1. UART mode for 220x,]
-  - [3.2. Special mode 2209,]
-  - [3.3. TIPS for Raspberry,]
-  - [3.4. Led_Strip, Fans, Convertors, thermal probe,...]
-  - [3.5. Mecanical & Electronic]
+  - [3.1. UART mode for 220x,](SPECIAL-MODS#31-TMC-with-UART-mode)
+  - [3.2. Special mode 2209,](SPECIAL-MODS#32-TMC2209-Single-Wire)
+  - [3.3. TIPS for Raspberry,](SPECIAL-MODS#33-Raspberry)
+  - [3.4. Led_Strip, Fans, Convertors, thermal probe,...](SPECIAL-MODS#34-Various-assembly)
+  - [3.5. Mecanical & Electronic](SPECIAL-MODS#35-Mechanical--electronic-precautions)
 - [4. The slicer](SLICER-PART)
 - [5. Wifi Part](Firmware-Wifi)
 - [6. Version History.](Version-History)

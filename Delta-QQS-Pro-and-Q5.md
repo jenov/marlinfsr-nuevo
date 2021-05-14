@@ -14,19 +14,20 @@
 
  With activate parts: ![Capabilities](./images/Marlin-QQS-Pro_Foxies.png)
 
-  * [PID_EDIT_MENU]
-  * [NATIVE LANGUAGE]
-  * [PROBE_OFFSET_WIZARD]
-  * [DELTA_CALIBRATION_MENU]
-  * [AUTO_BED_LEVELING_UBL]
+  * [PID_EDIT_MENU](SETTINGS-THE-PRINTER#)
+  * [NATIVE_LANGUAGE]
+  * [PROBE_OFFSET_WIZARD](SETTINGS-THE-PRINTER)
+  * [DELTA_CALIBRATION_MENU](SETTINGS-THE-PRINTER#21-delta-calibration)
+  * [AUTO_BED_LEVELING_UBL](SETTINGS-THE-PRINTER)
+  * [UBL_WIZARD]
   * [MULTI_BUILD_MESH]
   * [UBL_HILBERT_CURVE]
-  * [PREHEAT LEVELING]
+  * [PREHEAT_LEVELING]
   * [POWER_LOSS_RECOVERY]
   * [FILAMENT_RUNOUT_SENSOR]
   * [XY_FREQUENCY_LIMIT]
   * [BABYSTEPPING]
-  * [PAUSE_BEFORE_DEPLOY_STOW]
+  * [PAUSE_BEFORE_DEPLOY_STOW](SETTINGS-THE-PRINTER)
   * [LIN_ADVANCE]
   * [ARC_SUPPORT]
   * [BINARY_FILE_TRANSFER]
@@ -35,7 +36,7 @@
 ## 1.3. **Hardware for the FLSunQ printers**
   
   * MotherBoards QQS(P): 
-    [HiSpeedv1_&_RobinMini](./HISPEED)
+    [HiSpeedv1_&_RobinMini](./HISPEED/)
     
     With integrated stepper drivers(A4988)=>(**Sxxx-Robin_mini.bin**)
 
