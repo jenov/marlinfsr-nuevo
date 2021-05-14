@@ -6,7 +6,7 @@
   - [1.3. Hardware,](13-Hardware-for-the-FLSunQ-printers)
   - [1.4. Description of firmware headers.](14-CAPTION-Firmwares)
 - [2. Delta preparation](SETTINGS-THE-PRINTER)
-  - [2.1. Delta Calibration,](21-Delta-Calibration)
+  - [2.1. Delta Calibration,](SETTINGS-THE-PRINTER#21-delta-calibration)
   - [2.2. Set the OffSet (Z),](22-Z_OffSet)
   - [2.3. Levelling (UBL),](23-Bed-Levelling)
   - [2.4. Refine your printed object dimensions,](24-DIMENSIONS)
