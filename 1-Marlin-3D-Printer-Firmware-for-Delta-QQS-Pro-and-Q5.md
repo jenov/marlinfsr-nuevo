@@ -12,7 +12,7 @@
 ### Validate:
   - Firmware for QQS-Pro with A4988/TMC220x_Standalone/TMC220x_UART/TMC2209_UART one-wire.
 
- With activate parts: ![Capabilities](../../docs/images/Marlin-QQS-Pro_Foxies.png)
+ With activate parts: ![Capabilities](./images/Marlin-QQS-Pro_Foxies.png)
 
   * [PID_EDIT_MENU]
   * [NATIVE LANGUAGE]
@@ -39,12 +39,12 @@
     
     With integrated stepper drivers(A4988)=>(**Sxxx-Robin_mini.bin**)
 
-    ![First Version-A4988](../../docs/images/HiSpeed.jpg)
+    ![First Version-A4988](./images/HiSpeed.jpg)
     
     With removable stepper drivers.
     2&3_A4988(Green/Red)=>(**Sxxx-Robin_mini.bin**)
     
-    ![Second Version-A4988](../../docs/images/HiSpeedv1-A4988.jpg) ![Seconds Version-A4988](../../docs/images/HiSpeedv1-A4988red.jpg)
+    ![Second Version-A4988](./images/HiSpeedv1-A4988.jpg) ![Seconds Version-A4988](../../docs/images/HiSpeedv1-A4988red.jpg)
     
     4xTMC2208 MKS =>(**8xxx-Robin_mini.bin**)
     

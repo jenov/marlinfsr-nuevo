@@ -1,4 +1,3 @@
-# 4. SLICER PART
 ### **TIPS-SLICER** 
   
   In your **Start_GCode** on your Slicer.

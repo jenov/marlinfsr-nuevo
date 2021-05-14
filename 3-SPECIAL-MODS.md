@@ -1,4 +1,4 @@
-# 3. SPECIAL MODS
+
   - This chapter is being written ...............
 
 ## 3.1 TMC with UART mode
