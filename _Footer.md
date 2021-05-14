@@ -1,38 +1,17 @@
 ***
-# 6. Version history
 
-  ## Marlin 2.0 Bugfix Branch
-  Update Marlin-BugFix 20210117
-  - Last fix by Marlin,
-  - Fix PID Range to 30,
-  - add Preheat before leveling.
-  - New core for SKR14 and SKR14T (Ready TFT host)
+ ## Support my work
 
-  ## Marlin 2.0 Bugfix Branch
-  Update Marlin-BugFix 20210109
-  - Last fix by Marlin,
-  - Fix Feedback Users,
-  - Reduction of the hysteresis range from 10 to 6,
-  - 4 Mesh Locations,
-  - Functions disable but enable by menu (Runout, PowerLoss),
-  - **New_Core** size reduction (Small Boot Logo) and build optimization,
-  - Fix PowerLoss,
-  - Fix SDCard corrupted,
-  - Fix for "Mesh Edit",
-  - New test firmwares for Q5 (Stock and TMC2209).
-  - Special firmware for supporters and developments (Christmas Gift).
+  This QQS-Pro porting project for the Marlin firmware was only possible thanks to its supporters, you can participate via
+ <br/><br/>
+  [![paypal.me](../../docs/icons/paypal_50px.png)](https://www.paypal.me/Foxies40)<br/>[![Donate](https://img.shields.io/badge/Donate-Thanks-green)](https://paypal.me/Foxies40)
+ <br/><br/>
+ <br/><br/>
+  [![BuyMeCoffee](../../docs/icons/BMC_Black.png)](https://www.buymeacoffee.com/Foxies)<br/>[![Donate](https://img.shields.io/badge/BuyMeACoffee-Thanks-orange)](https://www.buymeacoffee.com/Foxies)
+ <br/><br/>
 
-  ## Marlin 2.0 Bugfix Branch
-  Update Marlin-BugFix 20201223
-  - News directory by Boards (HISPEED, NANO, SKR)
-  - Last fix by Marlin,
-  - Fix Feedback Users(Fan, CalDelta, Accel,...)
-  - **FIX New_Core** size reduction and build optimization,
-  - Some optimisation moves/accel printing, Calibration UBL, Standard Home, etc**
-  - No fix for "Mesh Edit".
 
-  ## Marlin 2.0 Bugfix Branch
-  Update Marlin-BugFix 20201213 
-  - Last fix by Marlin,
-  - **New_Core** size reduction and build optimization,
-  - Some optimisation moves/accel printing, Calibration UBL, Standard Home, etc**
+  You can also send me a tip via [Thingiverse](https://www.thingiverse.com/FamStel/about) if you prefer.
+
+ Massive thank you in advance :heart:
+***
