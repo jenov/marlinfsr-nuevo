@@ -11,7 +11,7 @@
 
   [**My Last Release**](https://github.com/Foxies-CSTL/Marlin_2.0.x/releases)
 
-[Introduction](_Home)
+[Introduction](Home)
 - [1.Title](1.Delta-QQS-Pro-and-Q5)
   - [1.1. Last News,](1.Delta-QQS-Pro-and-Q5#11-Last-news-Marlin-2-Bugfix-Branch)
   - [1.2. Capabilities,](1.Delta-QQS-Pro-and-Q5#12-Validate-and-Actived-parts)
