@@ -1,5 +1,3 @@
-# 2. SETTINGS THE PRINTER 
-  
   ### HELP - PROCEDURE - TIPS 
   After the flash, you must **RESET** your printer!!
   
