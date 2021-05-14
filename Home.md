@@ -19,6 +19,7 @@
     - [1.3.1. QQS&QQS-Pro](1.Delta-QQS-Pro-and-Q5#131)
     - [1.3.2. Q5](1.Delta-QQS-Pro-and-Q5#132-)
     - [1.3.3. Others Boards](1.Delta-QQS-Pro-and-Q5#133-)
+    - [1.3.4. Others Hardware](1.Delta-QQS-Pro-and-Q5#134-)
   - [1.4. Description of firmware headers.](1.4.CAPTION-Firmwares)
 - [2. Delta preparation](2.SETTINGS-THE-PRINTER)
   - [2.1. Delta Calibration,](2.SETTINGS-THE-PRINTER#21-delta-calibration)
