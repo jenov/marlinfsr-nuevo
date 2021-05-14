@@ -4,7 +4,7 @@
   - [1.1. Last News,](1.Delta-QQS-Pro-and-Q5#11-Last-news-Marlin-2-Bugfix-Branch)
   - [1.2. Capabilities,](1.Delta-QQS-Pro-and-Q5#12-Validate-and-Actived-parts)
   - [1.3. Hardware,](1.Delta-QQS-Pro-and-Q5#13-Hardware-for-the-FLSunQ-printers)
-    - [1.3.1. QQS&QQS-Pro](1.Delta-QQS-Pro-and-Q5#131-MotherBoards-QQS(P))
+    - [1.3.1. QQS&QQS-Pro](1.Delta-QQS-Pro-and-Q5#131-MotherBoards-QQSP)
     - [1.3.2. Q5](1.Delta-QQS-Pro-and-Q5#132-MotherBoards-Q5)
     - [1.3.3. Others Boards](1.Delta-QQS-Pro-and-Q5#133-Others-MotherBoards)
     - [1.3.4. Others Hardware](1.Delta-QQS-Pro-and-Q5#134-Others-hardwares)
