@@ -1,15 +1,18 @@
-# Welcome to the Marlin_2.0.x wiki for FLSUN QQSP printer and co !
+# Welcome to the Marlin_2.0.x wiki for FLSUN QQSP printers&co !
+
 # 1. Firmwares for Delta QQS-Pro and Q5.
 
-  [**Group FaceBook**](https://www.facebook.com/groups/120961628750040)
-
-  [**My Posts on Group FB**](https://www.facebook.com/hashtag/deltafoxies/?__gid__=120961628750040)
+  **On FaceBook Group:**
+  
+*   [Main Group](https://www.facebook.com/groups/120961628750040)    
+*   [Owner's Group](https://www.facebook.com/groups/flsunowners)
+*   [**My Posts on Group FB**](https://www.facebook.com/hashtag/deltafoxies/?__gid__=120961628750040)
 
   <img align="center" width=300 src="./images/FLSunMarlin.png" />
 
-  __Not for production use. Use with caution!__
+  # __Not for production use. Use with caution!__
 
-  [**My Last Release**](https://github.com/Foxies-CSTL/Marlin_2.0.x/releases)
+*  [**My Last Release**](https://github.com/Foxies-CSTL/Marlin_2.0.x/releases)
 
 [Introduction](Home)
 - [1.Title](1.Delta-QQS-Pro-and-Q5)
