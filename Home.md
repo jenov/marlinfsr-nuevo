@@ -46,6 +46,7 @@
   - [4.3. Others](4.SLICERS-PART#43-Others)
 - [5. Wifi Part](5.Firmware-Wifi)
 - [6. Version History.](6.Version-History)
+- [7. Gallery.](7.Gallery)
 ***
 
 [Go_To_Home](Home)                                   [Go_To_Index](_Sidebar)
