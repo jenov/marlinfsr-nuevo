@@ -32,6 +32,7 @@ Below is an example with the firmware for a QQS-Pro printer with a HiSpeedv1 boa
   **/*-------Options UI TFT--------*/**
   - (F) UI STANDARD (Emulation LCD screen on TFT)
   - (C) UI MARLIN (TFT Color screen)
+  - (I) UI MKS (TFT Color screen>=480x320 use Lvgl/NANOv2-3)
   - (r) UI STANDARD (Marlin Mode on TFT FOR SKR/NANOv2-3)
 
   **/*------Modules--------*/**
