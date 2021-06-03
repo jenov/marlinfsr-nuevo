@@ -28,5 +28,6 @@
   - [4.3. Others](4.SLICERS-PART#43-Others)
 - [5. Wifi Part](5.Firmware-Wifi)
 - [6. Version History.](6.Version-History)
-- [7. Gallery of 3D printing images.](7.Gallery)
+- [7. Tips and notes.](7.TIPS)
+- [8. Gallery of 3D printing images.](8.Gallery)
 ***
