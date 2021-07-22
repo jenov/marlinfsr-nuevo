@@ -1,5 +1,4 @@
 ***
-
  ## Support my work
 
   This QQS-Pro porting project for the Marlin firmware was only possible thanks to its supporters, you can participate via
