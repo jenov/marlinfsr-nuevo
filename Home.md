@@ -22,7 +22,7 @@ _**On FaceBook Group:**_
 
   # 📌__Not for production use. Use with caution!__📌
 
-*  [**My Last Release v1.2.4**](https://github.com/Foxies-CSTL/Marlin_2.0.x/releases)
+*  [**✨My Last Release v1.2.4**](https://github.com/Foxies-CSTL/Marlin_2.0.x/releases)
 
 [Introduction](Home)
 - [1.Title](1.Delta-QQS-Pro-and-Q5)
@@ -37,10 +37,10 @@ _**On FaceBook Group:**_
 - [2. Delta preparation](2.SETTINGS-THE-PRINTER)
   - [2.1. Delta Calibration,](2.SETTINGS-THE-PRINTER#21-delta-calibration)
   - [2.2. Set the OffSet (Z),](2.SETTINGS-THE-PRINTER#22-Z_OffSet)
-  - [2.3. Levelling (UBL),](2.SETTINGS-THE-PRINTER#23-Bed-Levelling)
+  - [2.3. Levelling (UBL),](2.SETTINGS-THE-PRINTER#23-Bed_Levelling)
   - [2.4. Refine your printed object dimensions,](2.SETTINGS-THE-PRINTER#24-DIMENSIONS)
   - [2.5. Perform a PID,](2.SETTINGS-THE-PRINTER#25-PID)
-  - [2.6. Adjust your Extruder.](2.SETTINGS-THE-PRINTER#26-EXTRUDER)
+  - [2.6. Adjust your Extruder.](2.SETTINGS-THE-PRINTER#26-extruder-option-tor-b-or-n)
 - [3. Special mods for TMC, Raspberry, LedStrip, etc](3.SPECIAL-MODS)
   - [3.1. UART mode for 220x,](3.SPECIAL-MODS#31-TMC-with-UART-mode)
   - [3.2. Special mode 2209,](3.SPECIAL-MODS#32-TMC2209-Single-Wire)
