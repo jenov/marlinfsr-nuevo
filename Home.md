@@ -4,15 +4,18 @@
 
 **Have a good reading and have fun! Delta QQS-Pro and Q5.**
 
-<img align="left" width=300 src="./icons/FLSun-LogoColor3.png" />
+  <img align="left" width=300 src="./icons/FLSun-LogoColor3.png" />
 
-  _**On FaceBook Group:**_
+_**On FaceBook Group:**_
+
 *   [Main Group](https://www.facebook.com/groups/120961628750040)    
 *   [Owner's Group](https://www.facebook.com/groups/flsunowners)
 
 *   [**My Posts on Group FB**](https://www.facebook.com/hashtag/deltafoxies/?__gid__=120961628750040)
 
-*   [Another Helpful link](https://flsun.community)<img align="center" width=300 src="https://raw.githubusercontent.com/blackfyre/flsun.community/main/src/.vuepress/public/hero.png" />
+*   [Another Helpful link](https://flsun.community)
+
+<img align="center" width=300 src="https://raw.githubusercontent.com/blackfyre/flsun.community/main/src/.vuepress/public/hero.png" />
 
   <img align="center" width=300 src="./images/FLSunMarlin.png" />
 
