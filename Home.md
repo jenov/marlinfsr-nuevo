@@ -12,8 +12,9 @@ _**On FaceBook Group:**_
 
 *   [**My Posts on Group FB**](https://www.facebook.com/hashtag/deltafoxies/?__gid__=120961628750040)
 
-*   [Another Helpful link](https://flsun.community)
 <img align="center" width=300 src="https://raw.githubusercontent.com/blackfyre/flsun.community/main/src/.vuepress/public/hero.png" />
+
+*   [Another Helpful link](https://flsun.community)
 
 
 <img align="center" width=300 src="./images/FLSunMarlin.png" />
