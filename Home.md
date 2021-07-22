@@ -1,4 +1,5 @@
-  <img align="left" width=300 src="./icons/FLSun-LogoColor3.png" />
+  <img align="left" width=200 src="./icons/FLSun-LogoColor3.png" />
+
 # Welcome to the Marlin_2.0.x wiki for FLSUN QQSP printers&co !
 
 ## This Wiki has been built as I progressed with the Deltas printers. It is the sum of the knowledge and the problems met and solved with beginners or advanced users. You will find in the header links to the FaceBook group and my posts as well as a new complementary and general community site.
