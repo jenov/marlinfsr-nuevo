@@ -49,5 +49,5 @@
 - [7. Tips and notes.](7.TIPS)
 - [8. Gallery of 3D printing images.](8.Gallery)
 ***
-
-[Go_To_Home](Home)                                   [Go_To_Index](_Sidebar)
+🚸[Go_To_Home](Home)                                   🚸[Go_To_Index](_Sidebar)
+***
