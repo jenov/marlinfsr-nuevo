@@ -24,7 +24,7 @@
   - [3.5. Mecanical & Electronic](3.SPECIAL-MODS#35-Mechanical--electronic-precautions)
 - [4.🔧The slicer](4.SLICERS-PART)
   - [4.1. PrusaSlicer](4.1.Prusa-Slicer)
-  - [4.2. Cura](4.SLICERS-PART#42-Cura)
+  - [4.2. SuperSlicer](4.SLICERS-PART#42-SuperSlicer)
   - [4.3. Others](4.SLICERS-PART#43-Others)
 - [5.⚡️Wifi Part](5.Firmware-Wifi)
 - [6.📝Version History.](6.Version-History)
