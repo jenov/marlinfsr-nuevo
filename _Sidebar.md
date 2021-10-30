@@ -29,5 +29,9 @@
 - [5.⚡️Wifi Part](5.Firmware-Wifi)
 - [6.📝Version History.](6.Version-History)
 - [7.📌Tips and notes.](7.TIPS)
+  - [7.1. Screen shot of Marlin's menus](7.TIPS#711-menus)
+  - [7.2. Delta Printer](7.TIPS#72-delta-printer)
+  - [7.3.2. Update and flash your printer](7.TIPS#732-update-and-flash)
+  - [7.4. Build your own firmware](7.TIPS#74build-your-own-firmware-prefer-the-stable-flsun-branch-on-my-github)
 - [8.🎨Gallery of 3D printing images.](8.Gallery)
 ***
