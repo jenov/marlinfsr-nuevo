@@ -22,7 +22,7 @@ _**On FaceBook Group:**_
 
   # 📌__Not for production use. Use with caution!__📌
 
-*  [**✨My Last Release v1.2.5**](https://github.com/Foxies-CSTL/Marlin_2.0.x/releases)
+*  [**✨My Last Release v1.2.6**](https://github.com/Foxies-CSTL/Marlin_2.0.x/releases)
 
 [Introduction](Home)
 - [1.Title](1.Delta-QQS-Pro-and-Q5)
