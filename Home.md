@@ -8,14 +8,17 @@
 
 _**On FaceBook Group:**_
 
-*   [Main Group](https://www.facebook.com/groups/120961628750040)    
+*   [Main Group](https://www.facebook.com/groups/120961628750040)
+
+<img align="center" width=300 src="./images/GroupQQ-QQS-Q5-SR.png"/>
+
 *   [Owner's Group](https://www.facebook.com/groups/flsunowners)
 
 <img align="center" width=300 src="./images/ArtOfThePrint.png"/>
 
 *   [**My Posts on Group FB**](https://www.facebook.com/hashtag/deltafoxies/?__gid__=120961628750040)
 
-<img align="center" width=300 src="https://raw.githubusercontent.com/blackfyre/flsun.community/main/src/.vuepress/public/hero.png" />
+<img align="center" width=300 src="https://raw.githubusercontent.com/blackfyre/flsun.community/main/src/.vuepress/public/hero.png"/>
 
 *   [Another Helpful link](https://flsun.community)
 
