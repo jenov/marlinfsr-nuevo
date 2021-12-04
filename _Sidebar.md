@@ -23,9 +23,10 @@
   - [3.4. Led_Strip, Fans, Convertors, thermal probe,...](3.SPECIAL-MODS#34-Various-assembly)
   - [3.5. Mecanical & Electronic](3.SPECIAL-MODS#35-Mechanical--electronic-precautions)
 - [4.🔧The slicer](4.SLICERS-PART)
-  - [4.1. PrusaSlicer](4.1.Prusa-Slicer)
-  - [4.2. SuperSlicer](4.SLICERS-PART#42-SuperSlicer)
-  - [4.3. Others](4.SLICERS-PART#43-Others)
+  - [4.1.1. PrusaSlicer](4.1.Prusa-Slicer)
+  - [4.1.2. SuperSlicer](4.SLICERS-PART#412-SuperSlicer)
+  - [4.1.3. Others](4.SLICERS-PART#413-Others)
+  - [4.1.4. Tests](4.SLICERS-PART#414-Tests) 
 - [5.⚡️Wifi Part](5.Firmware-Wifi)
 - [6.📝Version History.](6.Version-History)
 - [7.📌Tips and notes.](7.TIPS)
@@ -33,5 +34,6 @@
   - [7.2. Delta Printer](7.TIPS#72-delta-printer)
   - [7.3. Update and flash your printer](7.TIPS#732-update-and-flash)
   - [7.4. Build your own firmware](7.TIPS#74build-your-own-firmware-prefer-the-stable-flsun-branch-on-my-github)
+  - 
 - [8.🎨Gallery of 3D printing images.](8.Gallery)
 ***
