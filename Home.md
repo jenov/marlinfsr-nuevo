@@ -11,6 +11,8 @@ _**On FaceBook Group:**_
 *   [Main Group](https://www.facebook.com/groups/120961628750040)    
 *   [Owner's Group](https://www.facebook.com/groups/flsunowners)
 
+<img align="center" width=300 src="./images/ArtOfThePrint.png"/>
+
 *   [**My Posts on Group FB**](https://www.facebook.com/hashtag/deltafoxies/?__gid__=120961628750040)
 
 <img align="center" width=300 src="https://raw.githubusercontent.com/blackfyre/flsun.community/main/src/.vuepress/public/hero.png" />
@@ -18,7 +20,7 @@ _**On FaceBook Group:**_
 *   [Another Helpful link](https://flsun.community)
 
 
-<img align="center" width=300 src="./images/FLSunMarlin.png" />
+<img align="center" width=300 src="./images/FLSunMarlin.png"/>
 
   # 📌__Not for production use. Use with caution!__📌
 
@@ -47,10 +49,11 @@ _**On FaceBook Group:**_
   - [3.3. TIPS for Raspberry,](3.SPECIAL-MODS#33-Raspberry)
   - [3.4. Led_Strip, Fans, Convertors, thermal probe,...](3.SPECIAL-MODS#34-Various-assembly)
   - [3.5. Mecanical & Electronic](3.SPECIAL-MODS#35-Mechanical--electronic-precautions)
-- [4. The slicer](4.SLICERS-PART)
-  - [4.1. PrusaSlicer](4.1.Prusa-Slicer)
-  - [4.2. SuperSlicer](4.SLICERS-PART#42-SuperSlicer)
-  - [4.3. Others](4.SLICERS-PART#43-Others)
+- [4.🔧The slicer](4.SLICERS-PART)
+  - [4.1.1. PrusaSlicer](4.SLICERS-PART#411-prusaslicer)
+  - [4.1.2. SuperSlicer](4.SLICERS-PART#412-superslicer)
+  - [4.1.3. Others](4.SLICERS-PART#413-others)
+  - [4.1.4. Tests](4.SLICERS-PART#414-tests) 
 - [5. Wifi Part](5.Firmware-Wifi)
 - [6. Version History.](6.Version-History)
 - [7.📌Tips and notes.](7.TIPS)
