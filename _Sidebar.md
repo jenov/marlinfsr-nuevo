@@ -26,7 +26,7 @@
   - [4.1.1. PrusaSlicer](4.SLICERS-PART#411-prusaslicer)
   - [4.1.2. SuperSlicer](4.SLICERS-PART#412-superslicer)
   - [4.1.3. Others](4.SLICERS-PART#413-others)
-  - [4.1.4. Tests](4.SLICERS-PART#414-tests) 
+  - ✨[4.1.4. Tests](4.SLICERS-PART#414-tests) 
 - [5.⚡️Wifi Part](5.Firmware-Wifi)
 - [6.📝Version History.](6.Version-History)
 - [7.📌Tips and notes.](7.TIPS)
