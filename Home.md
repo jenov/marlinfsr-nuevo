@@ -28,7 +28,8 @@ _**On FaceBook Group:**_
   # 📌__Not for production use. Use with caution!__📌
 
 *  [**✨My Last Release v1.2.6**](https://github.com/Foxies-CSTL/Marlin_2.0.x/releases)
-
+https://github.com/Foxies-CSTL/Marlin_2.0.x/wiki/1.Delta-QQS-Pro-and-Q5#132-motherBoards-q5
+https://github.com/Foxies-CSTL/Marlin_2.0.x/wiki/1.Delta-QQS-Pro-and-Q5#132-motherboards-q5
 [Introduction](Home)
 - [1.Title](1.Delta-QQS-Pro-and-Q5)
   - [1.1. Last News,](1.Delta-QQS-Pro-and-Q5#11-Last-news-Marlin-2-Bugfix-Branch)
