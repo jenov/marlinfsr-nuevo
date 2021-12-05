@@ -33,7 +33,7 @@
   - [7.1. Screen shot of Marlin's menus](7.TIPS#711-menus)
   - [7.2. Delta Printer](7.TIPS#72-delta-printer)
   - [7.3. Update and flash your printer](7.TIPS#732-update-and-flash)
-  - [7.4. Build your own firmware](7.TIPS#74build-your-own-firmware-prefer-the-stable-flsun-branch-on-my-github)
+  - [7.4. Build your own firmware](7.TIPS#74build-your-own-firmware)
   - [7.5. Slicers](7.TIPS#75-slicers) 
 - [8.🎨Gallery of 3D printing images.](8.Gallery)
 - [9. My_Delta](9.MyPrinter)
