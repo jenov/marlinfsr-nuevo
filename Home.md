@@ -28,8 +28,6 @@ _**On FaceBook Group:**_
   # 📌__Not for production use. Use with caution!__📌
 
 *  [**✨My Last Release v1.2.6**](https://github.com/Foxies-CSTL/Marlin_2.0.x/releases)
-https://github.com/Foxies-CSTL/Marlin_2.0.x/wiki/1.Delta-QQS-Pro-and-Q5#132-motherBoards-q5
-https://github.com/Foxies-CSTL/Marlin_2.0.x/wiki/1.Delta-QQS-Pro-and-Q5#132-motherboards-q5
 [Introduction](Home)
 - [1.Title](1.Delta-QQS-Pro-and-Q5)
   - [1.1. Last News,](1.Delta-QQS-Pro-and-Q5#11-Last-news-Marlin-2-Bugfix-Branch)
@@ -64,7 +62,7 @@ https://github.com/Foxies-CSTL/Marlin_2.0.x/wiki/1.Delta-QQS-Pro-and-Q5#132-moth
   - [7.1. Screen shot of Marlin's menus](7.TIPS#711-menus)
   - [7.2. Delta Printer](7.TIPS#72-delta-printer)
   - [7.3. Update and flash your printer](7.TIPS#732-update-and-flash)
-  - [7.4. Build your own firmware](7.TIPS#74build-your-own-firmware-prefer-the-stable-flsun-branch-on-my-github)
+  - [7.4. Build your own firmware](7.TIPS#74build-your-own-firmware)
   - [7.5. Slicers](7.TIPS#75-slicers)
 - [8. Gallery of 3D printing images.](8.Gallery)
 - [9. My_Delta](9.MyPrinter)
