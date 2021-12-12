@@ -9,5 +9,7 @@
  <br/><br/>
   You can also send me a tip via [Thingiverse](https://www.thingiverse.com/FamStel/about) if you prefer.
 
+<a href='https://ko-fi.com/U7U77F782' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
  ### Massive thank you in advance :heart:
 ***
