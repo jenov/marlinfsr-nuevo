@@ -18,7 +18,7 @@
   - [2.6. Adjust your Extruder.](2.SETTINGS-THE-PRINTER#26-EXTRUDER)
 - [3.👽️Special mods for TMC, Raspberry, LedStrip, etc](3.SPECIAL-MODS)
   - [3.1. UART mode for 220x,](3.SPECIAL-MODS#31-TMC-with-UART-mode)
-  - [3.2. Special mode 2209,](3.SPECIAL-MODS#32-TMC2209-Single-Wire)
+  - [3.2. Special mode 2209,](3.SPECIAL-MODS#32-TMC2209-single-wire-and-stallguard2)
   - [3.3. TIPS for Raspberry,](3.SPECIAL-MODS#33-Raspberry)
   - [3.4. Led_Strip, Fans, Convertors, thermal probe,...](3.SPECIAL-MODS#34-Various-assembly)
   - [3.5. Mecanical & Electronic](3.SPECIAL-MODS#35-Mechanical--electronic-precautions)
