@@ -12,7 +12,7 @@
 - [2.👷Delta preparation](2.SETTINGS-THE-PRINTER)
   - [2.1. Delta Calibration,](2.SETTINGS-THE-PRINTER#21-delta-calibration)
   - [2.2. Set the OffSet (Z),](2.SETTINGS-THE-PRINTER#22-Z_OffSet)
-  - [2.3.🥅Levelling (UBL),](2.SETTINGS-THE-PRINTER#23-Bed-Levelling)
+  - [2.3. 🥅Levelling (UBL),](2.SETTINGS-THE-PRINTER#23-Bed-Levelling)
   - [2.4. Refine your printed object dimensions,](2.SETTINGS-THE-PRINTER#24-DIMENSIONS)
   - [2.5. Perform a PID,](2.SETTINGS-THE-PRINTER#25-PID)
   - [2.6. Adjust your Extruder.](2.SETTINGS-THE-PRINTER#26-EXTRUDER)
