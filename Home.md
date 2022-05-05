@@ -66,6 +66,7 @@ _**On FaceBook Group:**_
   - [7.3. Update and flash your printer](7.TIPS#732-update-and-flash)
   - [7.4. Build your own firmware](7.TIPS#74build-your-own-firmware)
   - [7.5. Slicers](7.TIPS#75-slicers)
+  - [7.7. GCodes](7.TIPS#77-gcodes_tips)
 - [8. Gallery of 3D printing images.](8.Gallery)
 - [9. My_Delta](9.MyPrinter)
 ***
