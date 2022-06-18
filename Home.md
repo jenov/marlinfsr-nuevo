@@ -27,7 +27,7 @@ _**On FaceBook Group:**_
 
   # 📌__Not for production use. Use with caution!__📌
 
-*  [**✨My Last Release v1.2.7**](https://github.com/Foxies-CSTL/Marlin_2.1.x/releases)
+*  [**✨My Last Release v1.2.x**](https://github.com/Foxies-CSTL/Marlin_2.1.x/releases)
 
 [Introduction](Home)
 - [1.Title](1.Deltas-FLSunQ)
