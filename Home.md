@@ -1,6 +1,6 @@
   <img align="left" width=200 src="./icons/FLSun-LogoColor3.png" />
 
-# Welcome to the Marlin_2.0.x wiki for FLSUN Deltas printers!
+# Welcome to the Marlin_2.1.x wiki for FLSUN Deltas printers!
 
 ## This Wiki has been built as I progressed with the Deltas printers. It is the sum of the knowledge and the problems met and solved with beginners or advanced users. You will find in the header links to the FaceBook group and my posts as well as a new complementary and general community site.
 
@@ -27,7 +27,7 @@ _**On FaceBook Group:**_
 
   # 📌__Not for production use. Use with caution!__📌
 
-*  [**✨My Last Release v1.2.7**](https://github.com/Foxies-CSTL/Marlin_2.0.x/releases)
+*  [**✨My Last Release v1.2.7**](https://github.com/Foxies-CSTL/Marlin_2.1.x/releases)
 
 [Introduction](Home)
 - [1.Title](1.Deltas-FLSunQ)
