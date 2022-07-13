@@ -64,7 +64,7 @@ _**On FaceBook Group:**_
   - [7.5. Slicers](7.TIPS#75-slicers)
   - [7.7. GCodes](7.TIPS#77-gcodes_tips)
 - [8. Gallery of 3D printing images.](8.Gallery)
-- [9. My_Delta](9.MyPrinter)
+- [9. My_Deltas](9.My_Deltas_printers)
 ***
 🚸[Go_To_Home](Home)                                   🚸[Go_To_Index](_Sidebar)
 ***
