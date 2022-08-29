@@ -19,7 +19,7 @@ _**On FaceBook Group:**_
 *   [Another Helpful link](https://flsun.community)
 
 
-<img align="center" width=300 src="./images/FLSunMarlin.png"/>
+<img align="center" width=300 src="./images/FLSunMarlin.png"/><img align="center" width=300 src="./icons/000-ICON_BootLogo.jpg"/>
 
   # 📌__Not for production use. Use with caution!__📌
 
