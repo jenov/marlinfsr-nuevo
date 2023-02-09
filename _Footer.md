@@ -1,5 +1,5 @@
 ***
- ## Support my work
+ ## ✨Support my work✨
 
   This FLSun Deltas porting project for Marlin firmware was only possible thanks to its supporters, you can participate:
  <br/>
