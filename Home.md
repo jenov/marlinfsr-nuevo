@@ -28,7 +28,7 @@ _**On FaceBook Group:**_
 [Introduction](Home)
 - [1.Title](1.Deltas-FLSunQ)
   - [1.1. Last News,](1.Deltas-FLSunQ#11-Last-news-Marlin-2-bugfix-branch)
-  - [1.2. Capabilities,](1.Deltas-FLSunQ#12-validate-and-actived-parts)
+  - [1.2. Capabilities,](1.Deltas-FLSunQ#12-validated-and-actived-parts)
   - [1.3. Hardware,](1.Deltas-FLSunQ#13-hardware-for-the-flsunq-printers)
     - [1.3.1. QQS&QQS-Pro](1.Deltas-FLSunQ#131-motherboards_qqsp)
     - [1.3.2. Q5](1.Deltas-FLSunQ#132-motherboards_q5)
