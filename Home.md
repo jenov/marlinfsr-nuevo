@@ -12,7 +12,7 @@ _**On FaceBook Group:**_
 
 <img align="center" width=300 src="./images/GroupQQ-QQS-Q5-SR.png"/>
 
-*   [**My Posts on Group FB**](https://www.facebook.com/hashtag/deltafoxies/?__gid__=120961628750040)
+*   [**My Posts on Group FB**](https://www.facebook.com/groups/120961628750040/search?q=%23deltafoxies)
 
 <img align="center" width=300 src="https://raw.githubusercontent.com/blackfyre/flsun.community/main/src/.vuepress/public/hero.png"/>
 
